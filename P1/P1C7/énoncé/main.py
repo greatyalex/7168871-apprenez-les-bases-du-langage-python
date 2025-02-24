@@ -14,5 +14,5 @@ print(Fruits)
 del Fruits["Banane"]
 print(Fruits)
 
-
+print(Fruits.keys())
 
