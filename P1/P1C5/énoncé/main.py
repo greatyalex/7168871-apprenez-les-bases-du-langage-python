@@ -1,6 +1,6 @@
 nom="alexandre"
-age="47"
-taille="1,92"
+age=47
+taille=1.92
 est_étudiant= False
 
 print(f"nom: {nom}")
